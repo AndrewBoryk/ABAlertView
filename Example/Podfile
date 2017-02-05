@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ABAlertView_Example' do
+  pod 'ABAlertView', :path => '../'
+
+  target 'ABAlertView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
