@@ -1,0 +1,6 @@
+framework module ABAlertView {
+  umbrella header "ABAlertView-umbrella.h"
+
+  export *
+  module * { export * }
+}

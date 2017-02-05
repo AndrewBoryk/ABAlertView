@@ -1,0 +1,16 @@
+PODS:
+  - ABAlertView (0.1.0)
+
+DEPENDENCIES:
+  - ABAlertView (from `../`)
+
+EXTERNAL SOURCES:
+  ABAlertView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ABAlertView: 6fb74230c9c6d1022fba1663baf1605f648c2e5f
+
+PODFILE CHECKSUM: be911bbe6599693575d1f77f4ef1588bb862229c
+
+COCOAPODS: 1.2.0
